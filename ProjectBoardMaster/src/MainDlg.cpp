@@ -913,7 +913,7 @@ static void ShowPage(int index) {
 // Each control gets four anchor flags. An edge with its flag set stays the same
 // distance from the page's corresponding edge; so AL|AR stretches horizontally,
 // AR alone moves right, and AL alone stays put.
-
+   
 enum : unsigned { AL = 1, AT = 2, AR = 4, AB = 8 };
 
 struct AnchorEntry {
