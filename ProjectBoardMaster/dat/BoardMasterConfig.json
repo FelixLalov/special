@@ -1,0 +1,17 @@
+{
+  "boards": [
+    {
+      "baud": 115200,
+      "host": "127.0.0.1",
+      "name": "Board 1",
+      "port": "COM15",
+      "stationId": 255,
+      "tcpPort": 5010,
+      "timeoutMs": 500,
+      "transport": "serial"
+    }
+  ],
+  "boardsNum": 1,
+  "profileDir": "D:\\ZZ_Experiments\\ProjectH\\MetalJet\\XjetApps\\MetalJet\\Apps\\Project\\qt\\Config\\Pro\\CarmelPro1PH",
+  "version": 1
+}
